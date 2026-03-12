@@ -15,3 +15,13 @@ Install dependencies:
 ## Usage
 
 Run the script:
+
+## Repo Analyzer
+
+This tool analyzes GitHub repositories for a given user.
+
+Run:
+
+```
+python github_repo_analyzer.py
+```
